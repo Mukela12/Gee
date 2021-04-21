@@ -1,7 +1,7 @@
 #include <iostream>
 #include <array>
 using namespace std;
-
+// testing
 int binarySearch(int arr[], int firstelem, int sizeofarr, int x)
 {
     int operations =0;
@@ -63,6 +63,7 @@ cout << "Number of operations performed :"<<operations<<endl;
 
 int main()
 {
+    cout << "Hello" <<endl;
     int n = 100000;
     int arr[n];
     int searchs;
