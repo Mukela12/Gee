@@ -18,6 +18,7 @@ int main() {
     cout << "Number[" << x << "] :" << arr[x] <<endl;
     x++;
   }
+ // about to perform a pull request 
 int search = 0;
   cout << "Enter a number you want to search :";
   cin >> search;
